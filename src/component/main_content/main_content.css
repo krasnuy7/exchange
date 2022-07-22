@@ -1,0 +1,7 @@
+.wrappper_link{
+    display: flex;
+}
+.wrappper_link_href{
+    margin-right: 60px;
+    cursor: pointer;
+}

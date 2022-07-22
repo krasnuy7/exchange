@@ -1,0 +1,5 @@
+.wrapper_send_curr{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
